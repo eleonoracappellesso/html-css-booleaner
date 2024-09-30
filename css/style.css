@@ -36,8 +36,22 @@ span {
     color: #4CB9EA;
 }
 
-thead {
-    color: white;
-    background-color: #4CB9EA;
+/*tabella*/
+tbody{
+    background-color: #B1E5F2;
+    color: black;
 }
 
+thead {
+    color: white;
+    background-color: #21A9E5;
+}
+
+.riga-bianca {
+    background-color: white;
+}
+
+/*parole evidenziate*/
+.giallo {
+    background:#FFFF00;
+}
