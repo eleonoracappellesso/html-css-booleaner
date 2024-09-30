@@ -1,13 +1,9 @@
-reset {
-    margin: 0px;
-    padding: 0px;
-}
-
 body {
-    font-family: "Roboto" , system-ui;
+    font-family: "Roboto", system-ui;
     font-style: normal;
     color:black;
     background-color: white;
+    font-weight: 400;
 }
 
 header {
@@ -44,11 +40,7 @@ h1 {
 
 /*tabella*/
 table {
-    border-spacing: 0;;
-}
-
-th td {
-    width: unset;
+    border-spacing: 0;
 }
 
 tbody{
@@ -57,6 +49,7 @@ tbody{
 }
 
 thead {
+    white-space: nowrap;
     color: white;
     background-color: #21A9E5;
 }
