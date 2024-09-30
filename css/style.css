@@ -44,7 +44,7 @@ h1 {
 
 /*tabella*/
 table {
-    border-spacing: 0;
+    border-spacing: 0;;
 }
 
 th td {
@@ -74,17 +74,21 @@ thead {
 .image-container {
     position: relative;
     background-image: url(../img/monitor.jpg);
-    width: 200px;
-    height: 200px;
+    background-size: cover;
+    width: 230px;
+    height: 150px;
     color: white;
     font-weight: bolder;
+    font-size: 20px;
 }
 
 .image-container2 {
     position: relative;
     background-image: url(../img/graph.jpg);
-    width: 200px;
-    height: 200px;
+    background-size: cover;
+    width: 230px;
+    height: 150px;
     color: white;
     font-weight: bolder;
+    font-size: 20px;
 }
