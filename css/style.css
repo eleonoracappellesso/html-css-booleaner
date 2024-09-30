@@ -36,7 +36,8 @@ span {
     color: #4CB9EA;
 }
 
-.testo-bianco {
+thead {
     color: white;
+    background-color: #4CB9EA;
 }
 
