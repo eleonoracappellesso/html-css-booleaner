@@ -24,6 +24,7 @@ header img {
 h1 {
     font-weight: bolder;
     font-size: 32px;
+    margin: 5px;
 }
 
 .testo-grigio {
